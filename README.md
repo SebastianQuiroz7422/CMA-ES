@@ -1,2 +1,2 @@
 # CMA-ES
-Basic implementation of the Covariance matrix adaptation evolution strategy
+Basic implementation of the Covariance matrix adaptation evolution strategy in jax
